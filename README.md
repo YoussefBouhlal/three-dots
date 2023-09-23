@@ -1,3 +1,3 @@
 ## DEMO
 
-link: ```https://youssefbouhlal.github.io/three-dots```
+link: [click here](https://youssefbouhlal.github.io/three-dots)
