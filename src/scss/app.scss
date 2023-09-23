@@ -1,3 +1,12 @@
-body{
-    border: 5px solid red;
-}
+@use 'sass:math';
+
+// Utitlies
+@import './utils/variables';
+@import './utils/responsive';
+
+// Base
+@import './base/reset';
+@import './base/global';
+
+// Template Parts
+@import './template-parts/section';

@@ -1,3 +1,4 @@
 import '../scss/app.scss';
 
-console.log('hello');
+import {animations} from './components/animation.js';
+animations();
